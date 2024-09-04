@@ -12,3 +12,14 @@ Personalized knowledge graph that is shareable
 - Each time a developer accesses the knowledge graph they do so using a unique-id
 - This allows us track and display how knowledge is connected across developers.
 - Components: CLI Interface, Snapshot Manager, Search Engine, Git integration, Knowledge graph
+
+
+## Phases
+- Set up project structure and implement basic CLI
+- Develop Snapshot Manager with local storage
+- Implement Search Engine
+- Add Git Integration
+- Create Knowledge Graph functionality
+- Enhance CLI with all features
+- Optimize performance and add tests
+- Document the project and prepare for release.
